@@ -1,0 +1,62 @@
+ /* global */
+ body { 
+    background-color: rgb(203, 203, 227);
+    text-align: center;
+    position: relative;
+}
+/* local */
+.start {
+    text-align: center;
+    position:relative;
+    margin:auto;
+    height:fit-content;
+    width: fit-content;
+    outline-style: dashed;
+    outline-color: rgb(127, 91, 142);
+}
+/* local */
+.priory {
+    background-color: rgb(219, 205, 145);
+    position: static;
+    text-align:center;
+    margin:auto;
+    padding: 10px;
+    border: 10px solid rgb(216, 221, 203);
+    height: fit-content;
+    width:fit-content;
+
+}
+/* local */
+.secret {
+    background-color: rgb(155, 149, 127);
+    position: static;
+    text-align:center;
+    margin:auto;
+    padding: 10px;
+    border: 10px solid rgb(9, 9, 9);
+    height: fit-content;
+    width:fit-content
+
+}
+/* local */
+.outro {
+    position:absolute;
+    text-align:left;
+    margin: 10px;
+    padding: 10px;
+    border: 3px dotted rgb(212, 145, 201);
+    height: fit-content;
+    width:fit-content
+
+
+}
+/* local */
+
+#wordz {
+    color:rgb(74, 8, 136);
+    font-size:x-large; 
+    font-style: oblique;
+
+}
+/* the css styling i used that was not included in class was 
+outline-style, outline-color, and font-style */
